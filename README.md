@@ -5,3 +5,4 @@ Link to Repo used for the practical part:
 https://github.com/AngenJo/Test_Repo
 
 Link to the practical presentation:
+https://www.youtube.com/watch?v=hkM1Juu-nds
